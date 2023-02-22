@@ -20,6 +20,10 @@ public class A52_IncrementDecrement {
 
         number--;
 
+        //Display the value in number once again.
+
+        System.out.println("Now, number is " + number);
+
     }
     
 }
